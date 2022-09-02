@@ -3,7 +3,6 @@ package Practice;
 public class Armstrong_no {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int no=153;
 		int copy=no;
 		int sum=0;
